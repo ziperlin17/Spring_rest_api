@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "name": "ru.eternitytimeline.refresh-token-secret",
+      "type": "java.lang.String",
+      "description": "Description for ru.eternitytimeline.refresh-token-secret."
+    },
+    {
+      "name": "ru.eternitytimeline.access-token-expiration-minutes",
+      "type": "java.lang.String",
+      "description": "Description for ru.eternitytimeline.access-token-expiration-minutes."
+    },
+    {
+      "name": "ru.eternitytimeline.refresh-token-expiration-days",
+      "type": "java.lang.String",
+      "description": "Description for ru.eternitytimeline.refresh-token-expiration-days."
+    },
+    {
+      "name": "ru.eternitytimeline.access-token-secret",
+      "type": "java.lang.String",
+      "description": "Description for ru.eternitytimeline.access-token-secret."
+    },
+    {
+      "name": "ru.eternitytimeline.issuer",
+      "type": "java.lang.String",
+      "description": "Description for ru.eternitytimeline.issuer."
+    }
+  ] }
